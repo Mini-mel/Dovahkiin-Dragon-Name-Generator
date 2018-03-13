@@ -3,6 +3,6 @@ I made this in college to automate what I used to do for each of my Skyrim chara
 It's text based, but it gets the job done.
 
 # How do I use it?
-Run it as you would any python program: python dragon-name-generator.py
+Run it as you would any python program: python dovahkiin_name_gen.py
 
 Happy shouting!
